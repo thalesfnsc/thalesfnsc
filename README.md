@@ -5,7 +5,8 @@ I'm a undergraduate Physics student and graduated in Exact Sciences at Federal U
 
 ###  Some facts about me ⚡ 
 - I'm deeply interesting in Deep Learning and Astrophysics 🔭.
-- Always learning about application of Neural Networks in physics 🧐.
+- Always learning about application of Deep Neural Networks in physics 🧐.
 - Interested in Computational Fluid Dynamics (CFD) ⚡.
 - I’m currently working on understand how Physics Informed Neural Networks (PINNs) behave 🔭.
 - I’m currently learning Julia language and Automatic Differentiation using Pytorch library 🌱 .
+- I've works in Deep Learning applied to Education and Cognitive Sciences 🧐 . 
