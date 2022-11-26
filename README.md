@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Thales
+###Hi,
 
-I'm an Physics student and graduated in Exact Sciences at Federal University of Juiz de Fora.  
+I'm an Physics student at Federal University of Juiz de Fora.  
 
 
 ###  Some facts about me ⚡ 
