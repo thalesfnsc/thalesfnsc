@@ -1,7 +1,7 @@
 Hi,
 
-I'm an Physics student at Federal University of Juiz de Fora.  
-
+ - I'm an Physics student at Federal University of Juiz de Fora.  
+ - Junior Associate at Brazilian Participation Group of Large Synoptic Survey Telescope (BPG-LSST)
 
 ###  Some facts about me ⚡ 
 - I'm deeply interesting in Deep Learning, Astrophysics and Neuroscience 🔭.
